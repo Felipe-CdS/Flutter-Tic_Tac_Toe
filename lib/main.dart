@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tic_tac_toe_app/views/playing_view/game.dart';
+import 'package:tic_tac_toe_app/views/game.dart';
 
 void main() {
   runApp(
